@@ -16,4 +16,5 @@ setTimeout(() => {
     console.log('This is a non-blocking task executed after 1 second');
 }, 1000);
 
+
 console.log('Server started. Waiting for requests...');
